@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PhoneCallingSample</string>
+    <string name="make_a_call">make a call</string>
+    <string name="enter_a_phone_number">Enter a phone number</string>
+    <string name="retry">Retry</string>
+    <string name="retry_message">Retry</string>
+    <string name="phone_status">Phone Status</string>
+    <string name="ringing">RINGING, number:</string>
+    <string name="offhook">OFFHOOK</string>
+    <string name="idle">IDLE</string>
+    <string name="restarting_app">Restarting app</string>
+</resources>
